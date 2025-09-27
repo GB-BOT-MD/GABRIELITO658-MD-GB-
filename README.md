@@ -1,16 +1,16 @@
-<h1 align="center">𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱2.0 💨</h1>
+<h1 align="center">GABRIELITO658-MD-GB🤖👾 💨</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;𝚅𝙴𝙶𝙴𝚃𝙰+-+𝙱𝙾𝚃+-+𝙼𝙱2.0;Gracias+por+preferirnos;Creado+por+BrayanOFC;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
-![Vegeta](https://qu.ax/zKuno.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;GABRIELITO658-MD-GB🤖👾+-+𝙱𝙾𝚃+-+𝙼𝙱2.0;Gracias+por+preferirnos;Creado+por+GABRIELITO658-MD-GB🤖👾OFC;💨🔥+GABRIELITO658-MD-GB🤖👾!!!;💨🔥)](https://git.io/typing-svg)
+![)
 
 > 💌 Versión 2.13.3
 
 <div align="center">
  
-[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/526633900512)
-[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/526633900512)
+[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59894243071)
+[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59894243071)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vegeta-bot)
 </div>
 
@@ -30,12 +30,12 @@
 ### **`💭 Contáctanos`**
 
 <a
-href="https://wa.me/526641804242?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
+href="https://wa.me/59894243071?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
 
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-* https://wa.me/526641804242
+* https://wa.me/59894243071
 
 ---
 
@@ -188,4 +188,4 @@ href="https://github.com/BrayanOFC"><img src="https://github.com/BrayanOFC.png" 
 <a
 href="https://github.com/deylin-eliac"><img src="https://github.com/deylin-eliac.png" width="140" height="140" alt="deylin-eliac"/></a>
 
-[© Powered By Team BrayanOFC ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
+[© Powered By Team GABRIELITO658-MD-GB🤖👾OFC ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
