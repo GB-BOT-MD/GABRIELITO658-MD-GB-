@@ -1,4 +1,4 @@
-<h1 align="center">𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱2.0 💨</h1>
+<h1 align="center">GABRIELITO658-MD-GB🤖👾 💨</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
@@ -188,4 +188,4 @@ href="https://github.com/BrayanOFC"><img src="https://github.com/BrayanOFC.png" 
 <a
 href="https://github.com/deylin-eliac"><img src="https://github.com/deylin-eliac.png" width="140" height="140" alt="deylin-eliac"/></a>
 
-[© Powered By Team BrayanOFC ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
+[© Powered By Team GABRIELITO658-MD-GB🤖👾OFC ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
