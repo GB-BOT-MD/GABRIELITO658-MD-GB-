@@ -2,7 +2,7 @@
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;𝚅𝙴𝙶𝙴𝚃𝙰+-+𝙱𝙾𝚃+-+𝙼𝙱2.0;Gracias+por+preferirnos;Creado+por+BrayanOFC;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;GABRIELITO658-MD-GB🤖👾+-+𝙱𝙾𝚃+-+𝙼𝙱2.0;Gracias+por+preferirnos;Creado+por+BrayanOFC;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
 ![Vegeta](https://qu.ax/zKuno.jpg)
 
 > 💌 Versión 2.13.3
